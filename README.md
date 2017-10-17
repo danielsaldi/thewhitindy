@@ -1,0 +1,2 @@
+# thewhitindy
+Divi Child theme
