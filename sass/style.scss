@@ -1,9 +1,17 @@
-/*--------------------------------------------------------------
-# Import Base Styles
---------------------------------------------------------------*/
+/*
+Theme Name: Divi Child
+Description: Divi Child Theme
+Author: Elegant Themes
+Author URI: https://www.elegantthemes.com
+Template: Divi
+Text Domain: thewhitindy
+Version: 1.0.0
+*/
 
-@import 'base';
+@import "base";
 
 /*--------------------------------------------------------------
 # Import Custom Styles
 --------------------------------------------------------------*/
+
+@import "custom";
